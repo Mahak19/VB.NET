@@ -1,0 +1,11 @@
+C:\VB.NET\13DoWhile_Table\obj\Debug\13DoWhile_Table.vbproj.AssemblyReference.cache
+C:\VB.NET\13DoWhile_Table\obj\Debug\_13DoWhile_Table.Resources.resources
+C:\VB.NET\13DoWhile_Table\obj\Debug\13DoWhile_Table.vbproj.GenerateResource.cache
+C:\VB.NET\13DoWhile_Table\obj\Debug\13DoWhile_Table.vbproj.CoreCompileInputs.cache
+C:\VB.NET\13DoWhile_Table\bin\Debug\13DoWhile_Table.exe.config
+C:\VB.NET\13DoWhile_Table\bin\Debug\13DoWhile_Table.exe
+C:\VB.NET\13DoWhile_Table\bin\Debug\13DoWhile_Table.pdb
+C:\VB.NET\13DoWhile_Table\bin\Debug\13DoWhile_Table.xml
+C:\VB.NET\13DoWhile_Table\obj\Debug\13DoWhile_Table.exe
+C:\VB.NET\13DoWhile_Table\obj\Debug\13DoWhile_Table.xml
+C:\VB.NET\13DoWhile_Table\obj\Debug\13DoWhile_Table.pdb
