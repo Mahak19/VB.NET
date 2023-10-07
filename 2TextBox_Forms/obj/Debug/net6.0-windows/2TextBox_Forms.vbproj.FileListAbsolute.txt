@@ -1,0 +1,16 @@
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\_2TextBox_Forms.frmName.resources
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.vbproj.GenerateResource.cache
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.AssemblyInfoInputs.cache
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.AssemblyInfo.vb
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.vbproj.CoreCompileInputs.cache
+C:\VB.NET\2TextBox_Forms\bin\Debug\net6.0-windows\2TextBox_Forms.exe
+C:\VB.NET\2TextBox_Forms\bin\Debug\net6.0-windows\2TextBox_Forms.deps.json
+C:\VB.NET\2TextBox_Forms\bin\Debug\net6.0-windows\2TextBox_Forms.runtimeconfig.json
+C:\VB.NET\2TextBox_Forms\bin\Debug\net6.0-windows\2TextBox_Forms.dll
+C:\VB.NET\2TextBox_Forms\bin\Debug\net6.0-windows\2TextBox_Forms.pdb
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.dll
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\refint\2TextBox_Forms.dll
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.pdb
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\2TextBox_Forms.genruntimeconfig.cache
+C:\VB.NET\2TextBox_Forms\obj\Debug\net6.0-windows\ref\2TextBox_Forms.dll
