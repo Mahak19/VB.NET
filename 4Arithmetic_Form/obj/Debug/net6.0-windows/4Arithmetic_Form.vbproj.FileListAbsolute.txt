@@ -1,0 +1,16 @@
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\_4Arithmetic_Form.frmArithmetic.resources
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.vbproj.GenerateResource.cache
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.AssemblyInfoInputs.cache
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.AssemblyInfo.vb
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.vbproj.CoreCompileInputs.cache
+C:\VB.NET\4Arithmetic_Form\bin\Debug\net6.0-windows\4Arithmetic_Form.exe
+C:\VB.NET\4Arithmetic_Form\bin\Debug\net6.0-windows\4Arithmetic_Form.deps.json
+C:\VB.NET\4Arithmetic_Form\bin\Debug\net6.0-windows\4Arithmetic_Form.runtimeconfig.json
+C:\VB.NET\4Arithmetic_Form\bin\Debug\net6.0-windows\4Arithmetic_Form.dll
+C:\VB.NET\4Arithmetic_Form\bin\Debug\net6.0-windows\4Arithmetic_Form.pdb
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.dll
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\refint\4Arithmetic_Form.dll
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.pdb
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\4Arithmetic_Form.genruntimeconfig.cache
+C:\VB.NET\4Arithmetic_Form\obj\Debug\net6.0-windows\ref\4Arithmetic_Form.dll
