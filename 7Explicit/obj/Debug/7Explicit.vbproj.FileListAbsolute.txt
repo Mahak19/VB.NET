@@ -1,0 +1,4 @@
+C:\VB.NET\7Explicit\obj\Debug\7Explicit.vbproj.AssemblyReference.cache
+C:\VB.NET\7Explicit\obj\Debug\_7Explicit.Resources.resources
+C:\VB.NET\7Explicit\obj\Debug\7Explicit.vbproj.GenerateResource.cache
+C:\VB.NET\7Explicit\obj\Debug\7Explicit.vbproj.CoreCompileInputs.cache
