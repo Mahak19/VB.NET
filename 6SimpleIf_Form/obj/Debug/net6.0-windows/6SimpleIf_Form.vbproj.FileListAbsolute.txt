@@ -1,0 +1,16 @@
+C:\VB.NET\6SimpleIf_Form\bin\Debug\net6.0-windows\6SimpleIf_Form.exe
+C:\VB.NET\6SimpleIf_Form\bin\Debug\net6.0-windows\6SimpleIf_Form.deps.json
+C:\VB.NET\6SimpleIf_Form\bin\Debug\net6.0-windows\6SimpleIf_Form.runtimeconfig.json
+C:\VB.NET\6SimpleIf_Form\bin\Debug\net6.0-windows\6SimpleIf_Form.dll
+C:\VB.NET\6SimpleIf_Form\bin\Debug\net6.0-windows\6SimpleIf_Form.pdb
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\_6SimpleIf_Form.Form1.resources
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.vbproj.GenerateResource.cache
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.AssemblyInfoInputs.cache
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.AssemblyInfo.vb
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.vbproj.CoreCompileInputs.cache
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.dll
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\refint\6SimpleIf_Form.dll
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.pdb
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\6SimpleIf_Form.genruntimeconfig.cache
+C:\VB.NET\6SimpleIf_Form\obj\Debug\net6.0-windows\ref\6SimpleIf_Form.dll
