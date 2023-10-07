@@ -1,0 +1,16 @@
+C:\VB.NET\7EvenOdd_Form\bin\Debug\net6.0-windows\7EvenOdd_Form.exe
+C:\VB.NET\7EvenOdd_Form\bin\Debug\net6.0-windows\7EvenOdd_Form.deps.json
+C:\VB.NET\7EvenOdd_Form\bin\Debug\net6.0-windows\7EvenOdd_Form.runtimeconfig.json
+C:\VB.NET\7EvenOdd_Form\bin\Debug\net6.0-windows\7EvenOdd_Form.dll
+C:\VB.NET\7EvenOdd_Form\bin\Debug\net6.0-windows\7EvenOdd_Form.pdb
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\_7EvenOdd_Form.Form1.resources
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.vbproj.GenerateResource.cache
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.AssemblyInfoInputs.cache
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.AssemblyInfo.vb
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.vbproj.CoreCompileInputs.cache
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.dll
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\refint\7EvenOdd_Form.dll
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.pdb
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\7EvenOdd_Form.genruntimeconfig.cache
+C:\VB.NET\7EvenOdd_Form\obj\Debug\net6.0-windows\ref\7EvenOdd_Form.dll
