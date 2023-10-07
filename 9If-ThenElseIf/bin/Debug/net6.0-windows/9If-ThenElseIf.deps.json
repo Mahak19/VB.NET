@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "9If-ThenElseIf/1.0.0": {
+        "runtime": {
+          "9If-ThenElseIf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9If-ThenElseIf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

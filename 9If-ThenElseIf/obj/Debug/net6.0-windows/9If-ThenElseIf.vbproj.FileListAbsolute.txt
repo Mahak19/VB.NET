@@ -1,0 +1,16 @@
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\_9If_ThenElseIf.frmPercentage.resources
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.vbproj.GenerateResource.cache
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.AssemblyInfoInputs.cache
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.AssemblyInfo.vb
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.vbproj.CoreCompileInputs.cache
+C:\VB.NET\9If-ThenElseIf\bin\Debug\net6.0-windows\9If-ThenElseIf.exe
+C:\VB.NET\9If-ThenElseIf\bin\Debug\net6.0-windows\9If-ThenElseIf.deps.json
+C:\VB.NET\9If-ThenElseIf\bin\Debug\net6.0-windows\9If-ThenElseIf.runtimeconfig.json
+C:\VB.NET\9If-ThenElseIf\bin\Debug\net6.0-windows\9If-ThenElseIf.dll
+C:\VB.NET\9If-ThenElseIf\bin\Debug\net6.0-windows\9If-ThenElseIf.pdb
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.dll
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\refint\9If-ThenElseIf.dll
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.pdb
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\9If-ThenElseIf.genruntimeconfig.cache
+C:\VB.NET\9If-ThenElseIf\obj\Debug\net6.0-windows\ref\9If-ThenElseIf.dll
