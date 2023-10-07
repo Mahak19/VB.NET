@@ -1,0 +1,11 @@
+C:\VB.NET\12SelectCaseAge\bin\Debug\12SelectCaseAge.exe.config
+C:\VB.NET\12SelectCaseAge\bin\Debug\12SelectCaseAge.exe
+C:\VB.NET\12SelectCaseAge\bin\Debug\12SelectCaseAge.pdb
+C:\VB.NET\12SelectCaseAge\bin\Debug\12SelectCaseAge.xml
+C:\VB.NET\12SelectCaseAge\obj\Debug\12SelectCaseAge.vbproj.AssemblyReference.cache
+C:\VB.NET\12SelectCaseAge\obj\Debug\_12SelectCaseAge.Resources.resources
+C:\VB.NET\12SelectCaseAge\obj\Debug\12SelectCaseAge.vbproj.GenerateResource.cache
+C:\VB.NET\12SelectCaseAge\obj\Debug\12SelectCaseAge.vbproj.CoreCompileInputs.cache
+C:\VB.NET\12SelectCaseAge\obj\Debug\12SelectCaseAge.exe
+C:\VB.NET\12SelectCaseAge\obj\Debug\12SelectCaseAge.xml
+C:\VB.NET\12SelectCaseAge\obj\Debug\12SelectCaseAge.pdb
