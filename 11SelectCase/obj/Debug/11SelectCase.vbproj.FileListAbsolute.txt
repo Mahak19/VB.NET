@@ -1,0 +1,11 @@
+C:\VB.NET\11SelectCase\bin\Debug\11SelectCase.exe.config
+C:\VB.NET\11SelectCase\bin\Debug\11SelectCase.exe
+C:\VB.NET\11SelectCase\bin\Debug\11SelectCase.pdb
+C:\VB.NET\11SelectCase\bin\Debug\11SelectCase.xml
+C:\VB.NET\11SelectCase\obj\Debug\11SelectCase.vbproj.AssemblyReference.cache
+C:\VB.NET\11SelectCase\obj\Debug\_11SelectCase.Resources.resources
+C:\VB.NET\11SelectCase\obj\Debug\11SelectCase.vbproj.GenerateResource.cache
+C:\VB.NET\11SelectCase\obj\Debug\11SelectCase.vbproj.CoreCompileInputs.cache
+C:\VB.NET\11SelectCase\obj\Debug\11SelectCase.exe
+C:\VB.NET\11SelectCase\obj\Debug\11SelectCase.xml
+C:\VB.NET\11SelectCase\obj\Debug\11SelectCase.pdb
