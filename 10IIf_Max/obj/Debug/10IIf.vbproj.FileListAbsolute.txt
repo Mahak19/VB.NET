@@ -1,0 +1,11 @@
+C:\VB.NET\10IIf\bin\Debug\10IIf.exe.config
+C:\VB.NET\10IIf\bin\Debug\10IIf.exe
+C:\VB.NET\10IIf\bin\Debug\10IIf.pdb
+C:\VB.NET\10IIf\bin\Debug\10IIf.xml
+C:\VB.NET\10IIf\obj\Debug\10IIf.vbproj.AssemblyReference.cache
+C:\VB.NET\10IIf\obj\Debug\_10IIf.Resources.resources
+C:\VB.NET\10IIf\obj\Debug\10IIf.vbproj.GenerateResource.cache
+C:\VB.NET\10IIf\obj\Debug\10IIf.vbproj.CoreCompileInputs.cache
+C:\VB.NET\10IIf\obj\Debug\10IIf.exe
+C:\VB.NET\10IIf\obj\Debug\10IIf.xml
+C:\VB.NET\10IIf\obj\Debug\10IIf.pdb
