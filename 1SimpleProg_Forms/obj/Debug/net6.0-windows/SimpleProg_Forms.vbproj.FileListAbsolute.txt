@@ -1,0 +1,16 @@
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.frmSimple.resources
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.vbproj.GenerateResource.cache
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.AssemblyInfoInputs.cache
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.AssemblyInfo.vb
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.vbproj.CoreCompileInputs.cache
+C:\VB.NET\SimpleProg_Forms\bin\Debug\net6.0-windows\SimpleProg_Forms.exe
+C:\VB.NET\SimpleProg_Forms\bin\Debug\net6.0-windows\SimpleProg_Forms.deps.json
+C:\VB.NET\SimpleProg_Forms\bin\Debug\net6.0-windows\SimpleProg_Forms.runtimeconfig.json
+C:\VB.NET\SimpleProg_Forms\bin\Debug\net6.0-windows\SimpleProg_Forms.dll
+C:\VB.NET\SimpleProg_Forms\bin\Debug\net6.0-windows\SimpleProg_Forms.pdb
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.dll
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\refint\SimpleProg_Forms.dll
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.pdb
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\SimpleProg_Forms.genruntimeconfig.cache
+C:\VB.NET\SimpleProg_Forms\obj\Debug\net6.0-windows\ref\SimpleProg_Forms.dll
