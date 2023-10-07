@@ -1,0 +1,11 @@
+C:\VB.NET\7String\bin\Debug\7String.exe.config
+C:\VB.NET\7String\bin\Debug\7String.exe
+C:\VB.NET\7String\bin\Debug\7String.pdb
+C:\VB.NET\7String\bin\Debug\7String.xml
+C:\VB.NET\7String\obj\Debug\7String.vbproj.AssemblyReference.cache
+C:\VB.NET\7String\obj\Debug\_7String.Resources.resources
+C:\VB.NET\7String\obj\Debug\7String.vbproj.GenerateResource.cache
+C:\VB.NET\7String\obj\Debug\7String.vbproj.CoreCompileInputs.cache
+C:\VB.NET\7String\obj\Debug\7String.exe
+C:\VB.NET\7String\obj\Debug\7String.xml
+C:\VB.NET\7String\obj\Debug\7String.pdb
