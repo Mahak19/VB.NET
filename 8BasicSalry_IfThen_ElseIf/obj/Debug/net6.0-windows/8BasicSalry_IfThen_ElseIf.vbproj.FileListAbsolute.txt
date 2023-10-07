@@ -1,0 +1,16 @@
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\_8BasicSalry_IfThen_ElseIf.frmSalaryCalculator.resources
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.vbproj.GenerateResource.cache
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.AssemblyInfoInputs.cache
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.AssemblyInfo.vb
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.vbproj.CoreCompileInputs.cache
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\bin\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.exe
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\bin\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.deps.json
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\bin\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.runtimeconfig.json
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\bin\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.dll
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\bin\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.pdb
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.dll
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\refint\8BasicSalry_IfThen_ElseIf.dll
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.pdb
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\8BasicSalry_IfThen_ElseIf.genruntimeconfig.cache
+C:\VB.NET\8BasicSalry_IfThen_ElseIf\obj\Debug\net6.0-windows\ref\8BasicSalry_IfThen_ElseIf.dll
