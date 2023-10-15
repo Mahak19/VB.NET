@@ -1,0 +1,11 @@
+C:\VB.NET\24PreserveArray\bin\Debug\24PreserveArray.exe.config
+C:\VB.NET\24PreserveArray\bin\Debug\24PreserveArray.exe
+C:\VB.NET\24PreserveArray\bin\Debug\24PreserveArray.pdb
+C:\VB.NET\24PreserveArray\bin\Debug\24PreserveArray.xml
+C:\VB.NET\24PreserveArray\obj\Debug\24PreserveArray.vbproj.AssemblyReference.cache
+C:\VB.NET\24PreserveArray\obj\Debug\_24PreserveArray.Resources.resources
+C:\VB.NET\24PreserveArray\obj\Debug\24PreserveArray.vbproj.GenerateResource.cache
+C:\VB.NET\24PreserveArray\obj\Debug\24PreserveArray.vbproj.CoreCompileInputs.cache
+C:\VB.NET\24PreserveArray\obj\Debug\24PreserveArray.exe
+C:\VB.NET\24PreserveArray\obj\Debug\24PreserveArray.xml
+C:\VB.NET\24PreserveArray\obj\Debug\24PreserveArray.pdb
