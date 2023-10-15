@@ -1,0 +1,16 @@
+C:\VB.Net\29FormsProject\bin\Debug\net6.0-windows\29FormsProject.exe
+C:\VB.Net\29FormsProject\bin\Debug\net6.0-windows\29FormsProject.deps.json
+C:\VB.Net\29FormsProject\bin\Debug\net6.0-windows\29FormsProject.runtimeconfig.json
+C:\VB.Net\29FormsProject\bin\Debug\net6.0-windows\29FormsProject.dll
+C:\VB.Net\29FormsProject\bin\Debug\net6.0-windows\29FormsProject.pdb
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\_29FormsProject.Form1.resources
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.vbproj.GenerateResource.cache
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.AssemblyInfoInputs.cache
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.AssemblyInfo.vb
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.vbproj.CoreCompileInputs.cache
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.dll
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\refint\29FormsProject.dll
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.pdb
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\29FormsProject.genruntimeconfig.cache
+C:\VB.Net\29FormsProject\obj\Debug\net6.0-windows\ref\29FormsProject.dll
