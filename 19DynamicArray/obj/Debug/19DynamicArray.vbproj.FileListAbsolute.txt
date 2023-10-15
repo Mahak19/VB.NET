@@ -1,0 +1,11 @@
+C:\VB.NET\19DynamicArray\obj\Debug\19DynamicArray.vbproj.AssemblyReference.cache
+C:\VB.NET\19DynamicArray\obj\Debug\_19DynamicArray.Resources.resources
+C:\VB.NET\19DynamicArray\obj\Debug\19DynamicArray.vbproj.GenerateResource.cache
+C:\VB.NET\19DynamicArray\obj\Debug\19DynamicArray.vbproj.CoreCompileInputs.cache
+C:\VB.NET\19DynamicArray\bin\Debug\19DynamicArray.exe.config
+C:\VB.NET\19DynamicArray\bin\Debug\19DynamicArray.exe
+C:\VB.NET\19DynamicArray\bin\Debug\19DynamicArray.pdb
+C:\VB.NET\19DynamicArray\bin\Debug\19DynamicArray.xml
+C:\VB.NET\19DynamicArray\obj\Debug\19DynamicArray.exe
+C:\VB.NET\19DynamicArray\obj\Debug\19DynamicArray.xml
+C:\VB.NET\19DynamicArray\obj\Debug\19DynamicArray.pdb
