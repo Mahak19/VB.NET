@@ -1,0 +1,16 @@
+C:\VB.NET\31FormProperties\bin\Debug\net6.0-windows\31FormProperties.exe
+C:\VB.NET\31FormProperties\bin\Debug\net6.0-windows\31FormProperties.deps.json
+C:\VB.NET\31FormProperties\bin\Debug\net6.0-windows\31FormProperties.runtimeconfig.json
+C:\VB.NET\31FormProperties\bin\Debug\net6.0-windows\31FormProperties.dll
+C:\VB.NET\31FormProperties\bin\Debug\net6.0-windows\31FormProperties.pdb
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\_31FormProperties.Form1.resources
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.vbproj.GenerateResource.cache
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.AssemblyInfoInputs.cache
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.AssemblyInfo.vb
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.vbproj.CoreCompileInputs.cache
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.dll
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\refint\31FormProperties.dll
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.pdb
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\31FormProperties.genruntimeconfig.cache
+C:\VB.NET\31FormProperties\obj\Debug\net6.0-windows\ref\31FormProperties.dll
