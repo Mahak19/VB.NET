@@ -1,0 +1,11 @@
+C:\VB.NET\20ReDimArray\obj\Debug\20ReDimArray.vbproj.AssemblyReference.cache
+C:\VB.NET\20ReDimArray\obj\Debug\_20ReDimArray.Resources.resources
+C:\VB.NET\20ReDimArray\obj\Debug\20ReDimArray.vbproj.GenerateResource.cache
+C:\VB.NET\20ReDimArray\obj\Debug\20ReDimArray.vbproj.CoreCompileInputs.cache
+C:\VB.NET\20ReDimArray\bin\Debug\20ReDimArray.exe.config
+C:\VB.NET\20ReDimArray\bin\Debug\20ReDimArray.exe
+C:\VB.NET\20ReDimArray\bin\Debug\20ReDimArray.pdb
+C:\VB.NET\20ReDimArray\bin\Debug\20ReDimArray.xml
+C:\VB.NET\20ReDimArray\obj\Debug\20ReDimArray.exe
+C:\VB.NET\20ReDimArray\obj\Debug\20ReDimArray.xml
+C:\VB.NET\20ReDimArray\obj\Debug\20ReDimArray.pdb
