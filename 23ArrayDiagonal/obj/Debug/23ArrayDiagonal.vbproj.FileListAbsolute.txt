@@ -1,0 +1,11 @@
+C:\VB.NET\23ArrayDiagonal\bin\Debug\23ArrayDiagonal.exe.config
+C:\VB.NET\23ArrayDiagonal\bin\Debug\23ArrayDiagonal.exe
+C:\VB.NET\23ArrayDiagonal\bin\Debug\23ArrayDiagonal.pdb
+C:\VB.NET\23ArrayDiagonal\bin\Debug\23ArrayDiagonal.xml
+C:\VB.NET\23ArrayDiagonal\obj\Debug\23ArrayDiagonal.vbproj.AssemblyReference.cache
+C:\VB.NET\23ArrayDiagonal\obj\Debug\_23ArrayDiagonal.Resources.resources
+C:\VB.NET\23ArrayDiagonal\obj\Debug\23ArrayDiagonal.vbproj.GenerateResource.cache
+C:\VB.NET\23ArrayDiagonal\obj\Debug\23ArrayDiagonal.vbproj.CoreCompileInputs.cache
+C:\VB.NET\23ArrayDiagonal\obj\Debug\23ArrayDiagonal.exe
+C:\VB.NET\23ArrayDiagonal\obj\Debug\23ArrayDiagonal.xml
+C:\VB.NET\23ArrayDiagonal\obj\Debug\23ArrayDiagonal.pdb
