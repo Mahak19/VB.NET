@@ -1,0 +1,11 @@
+C:\VB.NET\15SwitchCase_Grade-MultiOption\bin\Debug\15SwitchCase_Grade-MultiOption.exe.config
+C:\VB.NET\15SwitchCase_Grade-MultiOption\bin\Debug\15SwitchCase_Grade-MultiOption.exe
+C:\VB.NET\15SwitchCase_Grade-MultiOption\bin\Debug\15SwitchCase_Grade-MultiOption.pdb
+C:\VB.NET\15SwitchCase_Grade-MultiOption\bin\Debug\15SwitchCase_Grade-MultiOption.xml
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\15SwitchCase_Grade-MultiOption.vbproj.AssemblyReference.cache
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\_15SwitchCase_Grade_MultiOption.Resources.resources
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\15SwitchCase_Grade-MultiOption.vbproj.GenerateResource.cache
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\15SwitchCase_Grade-MultiOption.vbproj.CoreCompileInputs.cache
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\15SwitchCase_Grade-MultiOption.exe
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\15SwitchCase_Grade-MultiOption.xml
+C:\VB.NET\15SwitchCase_Grade-MultiOption\obj\Debug\15SwitchCase_Grade-MultiOption.pdb
