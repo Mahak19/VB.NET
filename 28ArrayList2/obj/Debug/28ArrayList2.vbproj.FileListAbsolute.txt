@@ -1,0 +1,11 @@
+C:\VB.NET\28ArrayList2\bin\Debug\28ArrayList2.exe.config
+C:\VB.NET\28ArrayList2\bin\Debug\28ArrayList2.exe
+C:\VB.NET\28ArrayList2\bin\Debug\28ArrayList2.pdb
+C:\VB.NET\28ArrayList2\bin\Debug\28ArrayList2.xml
+C:\VB.NET\28ArrayList2\obj\Debug\28ArrayList2.vbproj.AssemblyReference.cache
+C:\VB.NET\28ArrayList2\obj\Debug\_28ArrayList2.Resources.resources
+C:\VB.NET\28ArrayList2\obj\Debug\28ArrayList2.vbproj.GenerateResource.cache
+C:\VB.NET\28ArrayList2\obj\Debug\28ArrayList2.vbproj.CoreCompileInputs.cache
+C:\VB.NET\28ArrayList2\obj\Debug\28ArrayList2.exe
+C:\VB.NET\28ArrayList2\obj\Debug\28ArrayList2.xml
+C:\VB.NET\28ArrayList2\obj\Debug\28ArrayList2.pdb
