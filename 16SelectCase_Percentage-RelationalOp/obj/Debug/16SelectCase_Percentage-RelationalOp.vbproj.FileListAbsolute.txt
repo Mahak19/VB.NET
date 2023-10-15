@@ -1,0 +1,11 @@
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\bin\Debug\16SelectCase_Percentage-RelationalOp.exe.config
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\bin\Debug\16SelectCase_Percentage-RelationalOp.exe
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\bin\Debug\16SelectCase_Percentage-RelationalOp.pdb
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\bin\Debug\16SelectCase_Percentage-RelationalOp.xml
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\16SelectCase_Percentage-RelationalOp.vbproj.AssemblyReference.cache
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\_16SelectCase_Percentage_RelationalOp.Resources.resources
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\16SelectCase_Percentage-RelationalOp.vbproj.GenerateResource.cache
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\16SelectCase_Percentage-RelationalOp.vbproj.CoreCompileInputs.cache
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\16SelectCase_Percentage-RelationalOp.exe
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\16SelectCase_Percentage-RelationalOp.xml
+C:\VB.NET\16SelectCase_Percentage-RelationalOp\obj\Debug\16SelectCase_Percentage-RelationalOp.pdb
