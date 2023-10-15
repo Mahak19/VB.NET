@@ -1,0 +1,11 @@
+C:\VB.NET\24ArrayList\bin\Debug\24ArrayList.exe.config
+C:\VB.NET\24ArrayList\bin\Debug\24ArrayList.exe
+C:\VB.NET\24ArrayList\bin\Debug\24ArrayList.pdb
+C:\VB.NET\24ArrayList\bin\Debug\24ArrayList.xml
+C:\VB.NET\24ArrayList\obj\Debug\24ArrayList.vbproj.AssemblyReference.cache
+C:\VB.NET\24ArrayList\obj\Debug\_24ArrayList.Resources.resources
+C:\VB.NET\24ArrayList\obj\Debug\24ArrayList.vbproj.GenerateResource.cache
+C:\VB.NET\24ArrayList\obj\Debug\24ArrayList.vbproj.CoreCompileInputs.cache
+C:\VB.NET\24ArrayList\obj\Debug\24ArrayList.exe
+C:\VB.NET\24ArrayList\obj\Debug\24ArrayList.xml
+C:\VB.NET\24ArrayList\obj\Debug\24ArrayList.pdb
