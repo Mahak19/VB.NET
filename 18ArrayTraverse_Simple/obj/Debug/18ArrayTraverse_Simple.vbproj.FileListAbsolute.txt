@@ -1,0 +1,11 @@
+C:\VB.NET\18ArrayTraverse_Simple\bin\Debug\18ArrayTraverse_Simple.exe.config
+C:\VB.NET\18ArrayTraverse_Simple\bin\Debug\18ArrayTraverse_Simple.exe
+C:\VB.NET\18ArrayTraverse_Simple\bin\Debug\18ArrayTraverse_Simple.pdb
+C:\VB.NET\18ArrayTraverse_Simple\bin\Debug\18ArrayTraverse_Simple.xml
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\18ArrayTraverse_Simple.vbproj.AssemblyReference.cache
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\_18ArrayTraverse_Simple.Resources.resources
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\18ArrayTraverse_Simple.vbproj.GenerateResource.cache
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\18ArrayTraverse_Simple.vbproj.CoreCompileInputs.cache
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\18ArrayTraverse_Simple.exe
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\18ArrayTraverse_Simple.xml
+C:\VB.NET\18ArrayTraverse_Simple\obj\Debug\18ArrayTraverse_Simple.pdb
