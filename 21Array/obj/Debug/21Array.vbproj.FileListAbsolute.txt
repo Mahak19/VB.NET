@@ -1,0 +1,11 @@
+C:\VB.NET\21Array\obj\Debug\21Array.vbproj.AssemblyReference.cache
+C:\VB.NET\21Array\obj\Debug\_21Array.Resources.resources
+C:\VB.NET\21Array\obj\Debug\21Array.vbproj.GenerateResource.cache
+C:\VB.NET\21Array\obj\Debug\21Array.vbproj.CoreCompileInputs.cache
+C:\VB.NET\21Array\bin\Debug\21Array.exe.config
+C:\VB.NET\21Array\bin\Debug\21Array.exe
+C:\VB.NET\21Array\bin\Debug\21Array.pdb
+C:\VB.NET\21Array\bin\Debug\21Array.xml
+C:\VB.NET\21Array\obj\Debug\21Array.exe
+C:\VB.NET\21Array\obj\Debug\21Array.xml
+C:\VB.NET\21Array\obj\Debug\21Array.pdb
