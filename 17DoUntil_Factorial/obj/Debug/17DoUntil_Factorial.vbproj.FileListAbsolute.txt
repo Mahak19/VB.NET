@@ -1,0 +1,11 @@
+C:\VB.NET\17DoUntil_Factorial\bin\Debug\17DoUntil_Factorial.exe.config
+C:\VB.NET\17DoUntil_Factorial\bin\Debug\17DoUntil_Factorial.exe
+C:\VB.NET\17DoUntil_Factorial\bin\Debug\17DoUntil_Factorial.pdb
+C:\VB.NET\17DoUntil_Factorial\bin\Debug\17DoUntil_Factorial.xml
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\17DoUntil_Factorial.vbproj.AssemblyReference.cache
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\_17DoUntil_Factorial.Resources.resources
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\17DoUntil_Factorial.vbproj.GenerateResource.cache
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\17DoUntil_Factorial.vbproj.CoreCompileInputs.cache
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\17DoUntil_Factorial.exe
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\17DoUntil_Factorial.xml
+C:\VB.NET\17DoUntil_Factorial\obj\Debug\17DoUntil_Factorial.pdb
