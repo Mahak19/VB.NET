@@ -1,0 +1,11 @@
+C:\VB.NET\22ArrayMatrix\bin\Debug\22ArrayMatrix.exe.config
+C:\VB.NET\22ArrayMatrix\bin\Debug\22ArrayMatrix.exe
+C:\VB.NET\22ArrayMatrix\bin\Debug\22ArrayMatrix.pdb
+C:\VB.NET\22ArrayMatrix\bin\Debug\22ArrayMatrix.xml
+C:\VB.NET\22ArrayMatrix\obj\Debug\22ArrayMatrix.vbproj.AssemblyReference.cache
+C:\VB.NET\22ArrayMatrix\obj\Debug\_22ArrayMatrix.Resources.resources
+C:\VB.NET\22ArrayMatrix\obj\Debug\22ArrayMatrix.vbproj.GenerateResource.cache
+C:\VB.NET\22ArrayMatrix\obj\Debug\22ArrayMatrix.vbproj.CoreCompileInputs.cache
+C:\VB.NET\22ArrayMatrix\obj\Debug\22ArrayMatrix.exe
+C:\VB.NET\22ArrayMatrix\obj\Debug\22ArrayMatrix.xml
+C:\VB.NET\22ArrayMatrix\obj\Debug\22ArrayMatrix.pdb
