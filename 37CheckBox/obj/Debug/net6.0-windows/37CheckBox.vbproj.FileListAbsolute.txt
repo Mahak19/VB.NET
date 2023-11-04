@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\VB.NET\37CheckBox\bin\Debug\net6.0-windows\37CheckBox.exe
+C:\Users\hp\Desktop\VB.NET\37CheckBox\bin\Debug\net6.0-windows\37CheckBox.deps.json
+C:\Users\hp\Desktop\VB.NET\37CheckBox\bin\Debug\net6.0-windows\37CheckBox.runtimeconfig.json
+C:\Users\hp\Desktop\VB.NET\37CheckBox\bin\Debug\net6.0-windows\37CheckBox.dll
+C:\Users\hp\Desktop\VB.NET\37CheckBox\bin\Debug\net6.0-windows\37CheckBox.pdb
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\_37CheckBox.Form1.resources
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.AssemblyInfo.vb
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.dll
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\refint\37CheckBox.dll
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.pdb
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\37CheckBox.genruntimeconfig.cache
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\ref\37CheckBox.dll
+C:\Users\hp\Desktop\VB.NET\37CheckBox\obj\Debug\net6.0-windows\_37CheckBox.Resources.resources
