@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\VB.NET\41TimerControl\bin\Debug\net6.0-windows\41TimerControl.exe
+C:\Users\hp\Desktop\VB.NET\41TimerControl\bin\Debug\net6.0-windows\41TimerControl.deps.json
+C:\Users\hp\Desktop\VB.NET\41TimerControl\bin\Debug\net6.0-windows\41TimerControl.runtimeconfig.json
+C:\Users\hp\Desktop\VB.NET\41TimerControl\bin\Debug\net6.0-windows\41TimerControl.dll
+C:\Users\hp\Desktop\VB.NET\41TimerControl\bin\Debug\net6.0-windows\41TimerControl.pdb
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\_41TimerControl.Form1.resources
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.AssemblyInfo.vb
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.dll
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\refint\41TimerControl.dll
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.pdb
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\41TimerControl.genruntimeconfig.cache
+C:\Users\hp\Desktop\VB.NET\41TimerControl\obj\Debug\net6.0-windows\ref\41TimerControl.dll
