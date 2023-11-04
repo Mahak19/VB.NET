@@ -1,0 +1,17 @@
+C:\VB.NET\33LabelControl\bin\Debug\net6.0-windows\33LabelControl.exe
+C:\VB.NET\33LabelControl\bin\Debug\net6.0-windows\33LabelControl.deps.json
+C:\VB.NET\33LabelControl\bin\Debug\net6.0-windows\33LabelControl.runtimeconfig.json
+C:\VB.NET\33LabelControl\bin\Debug\net6.0-windows\33LabelControl.dll
+C:\VB.NET\33LabelControl\bin\Debug\net6.0-windows\33LabelControl.pdb
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\_33LabelControl.Form1.resources
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.vbproj.GenerateResource.cache
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.AssemblyInfoInputs.cache
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.AssemblyInfo.vb
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.vbproj.CoreCompileInputs.cache
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.dll
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\refint\33LabelControl.dll
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.pdb
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\33LabelControl.genruntimeconfig.cache
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\ref\33LabelControl.dll
+C:\VB.NET\33LabelControl\obj\Debug\net6.0-windows\_33LabelControl.Resources.resources
