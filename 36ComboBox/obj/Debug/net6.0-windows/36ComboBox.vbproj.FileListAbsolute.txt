@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\VB.NET\36ComboBox\bin\Debug\net6.0-windows\36ComboBox.exe
+C:\Users\hp\Desktop\VB.NET\36ComboBox\bin\Debug\net6.0-windows\36ComboBox.deps.json
+C:\Users\hp\Desktop\VB.NET\36ComboBox\bin\Debug\net6.0-windows\36ComboBox.runtimeconfig.json
+C:\Users\hp\Desktop\VB.NET\36ComboBox\bin\Debug\net6.0-windows\36ComboBox.dll
+C:\Users\hp\Desktop\VB.NET\36ComboBox\bin\Debug\net6.0-windows\36ComboBox.pdb
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\_36ComboBox.Form1.resources
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.AssemblyInfo.vb
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.dll
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\refint\36ComboBox.dll
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.pdb
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\36ComboBox.genruntimeconfig.cache
+C:\Users\hp\Desktop\VB.NET\36ComboBox\obj\Debug\net6.0-windows\ref\36ComboBox.dll
