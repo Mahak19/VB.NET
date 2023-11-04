@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\_40RadioButton2.frmFormat.resources
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\_40RadioButton2.Resources.resources
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.AssemblyInfo.vb
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\bin\Debug\net6.0-windows\40RadioButton2.exe
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\bin\Debug\net6.0-windows\40RadioButton2.deps.json
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\bin\Debug\net6.0-windows\40RadioButton2.runtimeconfig.json
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\bin\Debug\net6.0-windows\40RadioButton2.dll
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\bin\Debug\net6.0-windows\40RadioButton2.pdb
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.dll
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\refint\40RadioButton2.dll
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.pdb
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\40RadioButton2.genruntimeconfig.cache
+C:\Users\hp\Desktop\VB.NET\40RadioButton2\obj\Debug\net6.0-windows\ref\40RadioButton2.dll
