@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\VB.NET\43Menu\bin\Debug\net6.0-windows\43Menu.exe
+C:\Users\hp\Desktop\VB.NET\43Menu\bin\Debug\net6.0-windows\43Menu.deps.json
+C:\Users\hp\Desktop\VB.NET\43Menu\bin\Debug\net6.0-windows\43Menu.runtimeconfig.json
+C:\Users\hp\Desktop\VB.NET\43Menu\bin\Debug\net6.0-windows\43Menu.dll
+C:\Users\hp\Desktop\VB.NET\43Menu\bin\Debug\net6.0-windows\43Menu.pdb
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\_43Menu.Form1.resources
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.AssemblyInfo.vb
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.dll
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\refint\43Menu.dll
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.pdb
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\43Menu.genruntimeconfig.cache
+C:\Users\hp\Desktop\VB.NET\43Menu\obj\Debug\net6.0-windows\ref\43Menu.dll
