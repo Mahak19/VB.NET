@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\_45NumberPuzzle.frmNumberPuzzle.resources
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.AssemblyInfo.vb
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\bin\Debug\net6.0-windows\45NumberPuzzle.exe
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\bin\Debug\net6.0-windows\45NumberPuzzle.deps.json
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\bin\Debug\net6.0-windows\45NumberPuzzle.runtimeconfig.json
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\bin\Debug\net6.0-windows\45NumberPuzzle.dll
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\bin\Debug\net6.0-windows\45NumberPuzzle.pdb
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.dll
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\refint\45NumberPuzzle.dll
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.pdb
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\45NumberPuzzle.genruntimeconfig.cache
+C:\Users\hp\Desktop\VB.NET\45NumberPuzzle\obj\Debug\net6.0-windows\ref\45NumberPuzzle.dll
